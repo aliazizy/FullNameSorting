@@ -39,6 +39,6 @@ Should result the sorted names to screen:
 The program should also write the sorted names to a file called sorted-names-list.txt.
 
 ## CI/CD Pipeline
-Using GitHub actions, a continuous integration (CI) workflow(Pipeline) has been added to build and run tests.<br/>
+Using GitHub actions, a continuous integration (CI) workflow(Pipeline) has been added to build and run tests which could be found  [here](https://github.com/aliazizy/FullNameSorting/actions "here").<br/>
 For example:<br/>
 ![GitHub CI/CD workflow](GitHubActionWorkflow.png "GitHub CI/CD workflow")
